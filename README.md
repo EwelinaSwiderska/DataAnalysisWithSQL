@@ -4,7 +4,7 @@
 
 
 <h2>Description</h2>
-<br>I have been given 3 CSV data files from Chat company to evaluate theirs users activity data(posts, comments) to find out more about users engagement in real world, which features they using the most and how this can help improve their applications in the future. </br>
+<br>I have been given 3 CSV data files from ChatData company to evaluate theirs users activity data(posts, comments) to find out more about theirs engagement in real world, which features they using the most and how this can help improve their applications in the future. I also had to consider the issues of Data Protection and GDPR.</br>
 <h3><b> Questions to answer: </b></h3>
 <img width="883" alt="Screenshot 2023-05-03 at 09 06 36" src="https://user-images.githubusercontent.com/129959595/235862851-048cdc3c-3cf8-48f0-be4f-bf2bcf747a42.png">
 
@@ -65,7 +65,7 @@
 <br />
 ⇨ Writing queries to answer all questions from business requirements and checking if they are stored correctly in our queries table <br/>
 <br></br>
-<img width="1160" alt="Screenshot 2023-04-29 at 19 10 31" src="https://user-images.githubusercontent.com/129959595/235861705-425cd96a-244e-4b05-9ea5-b6cc546535cc.png">\
+<img width="1160" alt="Screenshot 2023-04-29 at 19 10 31" src="https://user-images.githubusercontent.com/129959595/235861705-425cd96a-244e-4b05-9ea5-b6cc546535cc.png">
 <br</br>
 <img width="1127" alt="Screenshot 2023-05-03 at 08 54 46" src="https://user-images.githubusercontent.com/129959595/235861645-53a297a6-551f-44ca-991c-91cf333f79a2.png">
 </b></h2>
